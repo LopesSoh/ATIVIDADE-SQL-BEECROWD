@@ -92,3 +92,31 @@
 ---
 
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 3 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
+
+- ### 2610
+
+```sql
+select
+	ROUND(AVG (price), 2) AS Preçomedio
+from products;
+```
+
+- ### 2618
+
+```sql
+select
+        products.name, providers.name, categories.name
+    from
+        products
+    INNER JOIN providers
+        on products.id_providers = providers.id
+    INNER JOIN categories
+        on products.id_categories = categories.id
+    where 
+        providers.name = 'Sansul SA'
+        and categories.name = 'Imported';
+```
+
+---
+
+## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 4 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
