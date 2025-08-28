@@ -1,4 +1,4 @@
-# ATIVIDADE-SQL-BEECROWD
+# ◇───────◇───────◇ATIVIDADE-SQL-BEECROWD◇───────◇───────◇
 
 ## Nível 1
 
@@ -35,19 +35,19 @@
 
 ---
 
-Nível 2
+## Nível 2
 
-- 2604
+- ### 2604
     
-    ![image.png](attachment:097be61e-4675-4f6b-aef3-e0835318c734:image.png)
+    <img width="1087" height="33" alt="Image" src="https://github.com/user-attachments/assets/8a2ebc5b-6fd7-4e79-86e7-dd3133fdc283" />
     
-    ![image.png](attachment:3838ccf3-6185-4e78-b58e-e70bd1bf0c08:image.png)
+    <img width="1090" height="469" alt="Image" src="https://github.com/user-attachments/assets/2c9e70f6-9849-4a78-ad71-359e4332b3ad" />
     
-- 2613
+- ### 2613
     
-    ![image.png](attachment:fd839854-fcbd-4501-b930-729973ff6e66:image.png)
+    <img width="1080" height="36" alt="Image" src="https://github.com/user-attachments/assets/539c6027-9bb7-4ab7-adfb-297aa01e054e" />
     
-    ![image.png](attachment:937b9c0e-4d42-4662-b646-6220ec322302:image.png)
+    <img width="1102" height="577" alt="Image" src="https://github.com/user-attachments/assets/3895d175-a66b-4bcb-9a2b-cf09a7b3ce83" />
     
 
 ---
