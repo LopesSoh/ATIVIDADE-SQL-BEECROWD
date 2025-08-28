@@ -122,3 +122,19 @@ select
 ---
 
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 4 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
+
+- 2602
+- <img width="827" height="254" alt="Image" src="https://github.com/user-attachments/assets/7fb12e84-9167-4288-8387-3665bd5a77ac" />
+
+```sql
+select 
+   name 
+from 
+   customers
+where 
+   state like '%RS%';
+```
+
+---
+
+## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 5 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
