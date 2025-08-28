@@ -1,4 +1,4 @@
-# ◇───────◇───────◇ATIVIDADE-SQL-BEECROWD◇───────◇───────◇
+# ◇───────◇ATIVIDADE-SQL-BEECROWD◇───────◇
 
 ## Nível 1
 
