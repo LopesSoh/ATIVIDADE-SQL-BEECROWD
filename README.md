@@ -3,6 +3,7 @@
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 1 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
 
 - 2603
+  <img width="1103" height="336" alt="Image" src="https://github.com/user-attachments/assets/3d2bbb9d-cb6a-42f6-ae9c-939ac585ef04" />
     
     ```sql
     SELECT
@@ -15,6 +16,7 @@
     ```
     
 - 2607
+  <img width="1090" height="339" alt="Image" src="https://github.com/user-attachments/assets/af1368b6-0e8d-4dca-9ba7-5afd15725db7" />
     
     ```sql
     select 
@@ -26,6 +28,7 @@
     ```
     
 - 2608
+  <img width="1106" height="331" alt="Image" src="https://github.com/user-attachments/assets/55cb7861-4a9f-4b7f-805a-4681e4d7a924" />
     
     ```sql
     select 
@@ -36,6 +39,7 @@
     ```
     
 - 2615
+  <img width="1101" height="333" alt="Image" src="https://github.com/user-attachments/assets/acc43f9b-8849-4404-941f-8ed1f9b31e8b" />
     
     ```sql
     select 
@@ -44,6 +48,7 @@
     ```
     
 - 2617
+  <img width="1093" height="322" alt="Image" src="https://github.com/user-attachments/assets/f556aa5c-2670-4ce5-a61d-8660aefbce69" />
     
     ```sql
     select 
