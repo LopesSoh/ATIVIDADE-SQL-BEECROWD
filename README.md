@@ -123,7 +123,7 @@ select
 
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 4 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
 
-- 2602
+- ### 2602
 - <img width="827" height="254" alt="Image" src="https://github.com/user-attachments/assets/7fb12e84-9167-4288-8387-3665bd5a77ac" />
 
 ```sql
@@ -138,3 +138,19 @@ where
 ---
 
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 5 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
+<img width="878" height="266" alt="Image" src="https://github.com/user-attachments/assets/e39dbbed-ae76-4eb4-a130-b1361727722f" />
+
+- ### 2616
+
+```sql
+		select
+        customers.id, customers.name
+    from
+        customers
+    LEFT JOIN locations
+        on customers.id = locations.id_customers
+    where
+        locations.id_customers IS NULL;
+        
+```
+
