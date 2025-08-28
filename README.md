@@ -1,4 +1,4 @@
-# ★━━━━━✩━━━━━★ATIVIDADE-SQL-BEECROWD★━━━━━✩━━━━━★
+# ★━━━━✩━━━━★ATIVIDADE-SQL-BEECROWD★━━━━✩━━━━★
 <img width="1738" height="367" alt="Image" src="https://github.com/user-attachments/assets/b614627b-e1f2-410f-b0d4-ad2b1b589613" />
 
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 1 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
