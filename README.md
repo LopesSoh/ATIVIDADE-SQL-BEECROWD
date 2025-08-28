@@ -22,9 +22,9 @@
     
 - 2615
     
-    ![image.png](attachment:aa0fe7b0-e068-4f69-9926-7ef29ed970b9:image.png)
+    <img width="1083" height="37" alt="Image" src="https://github.com/user-attachments/assets/a8a18a2a-7fd4-41ab-9cc3-59c964e991c6" />
     
-    ![image.png](attachment:d3474479-0a1e-41b2-8eca-70e5a9ad9512:image.png)
+    <img width="1101" height="503" alt="Image" src="https://github.com/user-attachments/assets/940c24f5-2411-4e46-9540-8ac9dd85a0de" />
     
 - 2617
     
