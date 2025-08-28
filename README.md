@@ -94,6 +94,7 @@
 ## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 3 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
 
 - ### 2610
+  <img width="1099" height="334" alt="Image" src="https://github.com/user-attachments/assets/1b33f72a-13a7-429d-b089-2a124ece7e04" />
 
 ```sql
 select
@@ -102,6 +103,7 @@ from products;
 ```
 
 - ### 2618
+  <img width="826" height="250" alt="Image" src="https://github.com/user-attachments/assets/db864297-ec95-4f37-ac76-0cb9ab02f8aa" />
 
 ```sql
 select
