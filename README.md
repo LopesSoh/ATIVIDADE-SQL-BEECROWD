@@ -1,13 +1,12 @@
 # ATIVIDADE-SQL-BEECROWD
-# ATIVIDADE SQL - BEECROWD
 
 Nível 1
 
 - 2603
     
-    ![image.png](attachment:4f4a0d36-8aff-415c-8771-d4aca488d117:image.png)
+    <img width="1074" height="35" alt="Image" src="https://github.com/user-attachments/assets/06fcb218-5d98-491d-a06f-d67fafe4d746" />
     
-    ![image.png](attachment:249d591e-ad8c-48c9-88d2-1c3faeb031a6:image.png)
+    <img width="1103" height="576" alt="Image" src="https://github.com/user-attachments/assets/c8714730-d8a4-4ed2-a302-903412d067bc" />
     
 - 2607
     
