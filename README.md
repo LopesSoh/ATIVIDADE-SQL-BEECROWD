@@ -1,36 +1,65 @@
 # ◇───────◇ATIVIDADE-SQL-BEECROWD◇───────◇
 
-## Nível 1
+## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 1 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
 
-- ### 2603
+- 2603
     
-    <img width="1074" height="35" alt="Image" src="https://github.com/user-attachments/assets/06fcb218-5d98-491d-a06f-d67fafe4d746" />
+    ```sql
+    SELECT
+    	name,
+    	street
+    FROM
+    	 custumers
+    WHERE
+    	city LIKE '%Porto Alegre%';
+    ```
     
-    <img width="1103" height="576" alt="Image" src="https://github.com/user-attachments/assets/c8714730-d8a4-4ed2-a302-903412d067bc" />
+- 2607
     
-- ### 2607
+    ```sql
+    select 
+    	city
+    from 
+    	providers
+    order by city asc;
+     
+    ```
     
-    <img width="1078" height="34" alt="Image" src="https://github.com/user-attachments/assets/66bc9575-7e33-48c9-a2de-bff700fd1071" />
+- 2608
     
-    <img width="1090" height="552" alt="Image" src="https://github.com/user-attachments/assets/a3aab5fb-e960-48d6-8a76-16ab43616fff" />
+    ```sql
+    select 
+    	max(price),
+      min(price)
+    from
+      products;
+    ```
     
-- ### 2608
+- 2615
     
-    <img width="1081" height="39" alt="Image" src="https://github.com/user-attachments/assets/08e5c864-6e0d-450f-96ab-a76c32fddd69" />
+    ```sql
+    select 
+    	city
+    from customers;
+    ```
     
-    <img width="1106" height="521" alt="Image" src="https://github.com/user-attachments/assets/01da0965-f474-4ef9-8be8-72dcfd5ab5bc" />
+- 2617
     
-- ### 2615
+    ```sql
+    select 
+    	products.name, 
+    	providers.name
+    from 
+    	providers
+    inner join products
+        on products.id_providers = providers.id
+    where providers.name = 'Ajax SA';
+    ```
     
-    <img width="1083" height="37" alt="Image" src="https://github.com/user-attachments/assets/a8a18a2a-7fd4-41ab-9cc3-59c964e991c6" />
-    
-    <img width="1101" height="503" alt="Image" src="https://github.com/user-attachments/assets/940c24f5-2411-4e46-9540-8ac9dd85a0de" />
-    
-- ### 2617
-    
-    <img width="1087" height="41" alt="Image" src="https://github.com/user-attachments/assets/61d1f511-0fe5-497c-9875-9942f902043a" />
-    
-    <img width="1093" height="514" alt="Image" src="https://github.com/user-attachments/assets/e9da652e-2f44-4d92-8c6a-e7e3e9852246" />
+
+---
+
+## ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶ Nível 2 ✶⊶⊷⊶⊷❍⊶⊷⊶⊷✶
     
 
 ---
